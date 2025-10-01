@@ -1,1 +1,3 @@
-__pycache__/just_test.cpython-312-pytest-7.4.4.pyc
+__pycache__/
+.pytest_cache/
+__pycache__/test_example.cpython-312-pytest-7.4.4.pyc
