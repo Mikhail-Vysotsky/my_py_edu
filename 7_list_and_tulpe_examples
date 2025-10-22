@@ -1,0 +1,15 @@
+
+b_list = [num for num in range (1983, 2026)]
+print(b_list)
+
+print(b_list[4])
+
+things = ['mozzarella', 'cinderella', 'salmonella']
+
+print(things[2].capitalize())
+
+things[0] = things[0].capitalize()
+
+#things.remove(things[1])
+things.remove('cinderella')
+print(things)
