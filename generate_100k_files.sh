@@ -1,4 +1,5 @@
 #!/bin/bash
+#test
 for i in {1..100}
 do
   mkdir ./$i
